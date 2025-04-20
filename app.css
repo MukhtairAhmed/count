@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    
+    body{
+        background-color: aqua;
+    }
+    
+    #counter{
+        text-align: center;
+        position: relative;
+        top: 250px;
+    }
+    
+    #btn{
+        position: relative;
+        top: 270px;
+    }
+    
+    #btn button{
+    width: 150px;
+    padding: 5px 20px;
+    background: tan;
+    margin: 0 5px;
+    }
+    
